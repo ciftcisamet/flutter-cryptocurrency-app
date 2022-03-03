@@ -1,6 +1,6 @@
 # cryptocurrecy_app
 
-![Screenshot](screenshot.png)
+<img src="./screenshot.png" width="50%">
 
 ## Getting Started
 
